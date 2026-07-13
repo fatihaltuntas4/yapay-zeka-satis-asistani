@@ -1,0 +1,12 @@
+# Ignore dataset and database
+vehicles.csv
+inventory.db
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Python caching
+__pycache__/
+*.pyc
